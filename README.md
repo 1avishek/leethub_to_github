@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/1avishek/leethub_to_github/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/1avishek/leethub_to_github/tree/master/0013-roman-to-integer) |
+| [3875-construct-uniform-parity-array-i](https://github.com/1avishek/leethub_to_github/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/1avishek/leethub_to_github/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/1avishek/leethub_to_github/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3875-construct-uniform-parity-array-i](https://github.com/1avishek/leethub_to_github/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
